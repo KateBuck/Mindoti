@@ -1,3 +1,3 @@
-# KMM
+# Mindoti
 
-a mod that implements new music for your campaign and other funsies
+A mod that changes the visual part of mindustry to a less quality one, making it simpler
